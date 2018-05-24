@@ -1,0 +1,176 @@
+body{
+    font-family: 'Arimo';
+    font-style: normal;
+    font-weight: 500;
+}
+
+.back-page{
+    background: url('http://localhost:8088/AboutMe/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back-page-music{
+    background: url('http://localhost:8088/AboutMe/img/music.bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back-page-portfolio{
+    background: url('http://localhost:8088/AboutMe/img/portfolio.bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back-page-sobre{
+    background: url('http://localhost:8088/AboutMe/img/sobre.bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back-page-contato{
+    background: url('http://localhost:8088/AboutMe/img/contato.bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about{
+    width: 767px;
+    height: 216px;
+    background-image: url('http://localhost:8088/AboutMe/img/About.png');
+    margin: 0 auto;
+}
+
+.about-text{
+    font-family: 'Bungee Inline';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    margin: 0 400px 0 400px;
+    text-align: center;
+}
+
+.footer-landpage{
+    background-color: rgba(0, 0, 0, 0.8);
+    border-top: solid 1px #535353;
+    color: #acacac;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed; 
+}
+
+.menu{
+    height: 20px;
+    width: 120px;
+    float: right;
+    margin: 2px 0 0 30px;
+    text-decoration: none;
+    list-style: none;
+    line-height: 48px;
+    text-align: center;
+    position: relative;
+}
+
+.menu1{
+    width: 120px;
+    height: 95px;
+    box-shadow: 1px 1px 1px 1px #2e2e2e;
+    background-color: #1c1c1c;
+    text-align: center;
+}
+
+.opc{
+    list-style: none;
+    margin-right: 37px;
+}
+
+.cor{
+    font-family: 'Arimo';
+    font-style: normal;
+    font-weight: 500;
+    color: #9d9d9d;
+    cursor: default;
+}
+
+.cor:hover{
+    color: #fff;
+}
+
+.cor1{
+    color: #9d9d9d;
+}
+
+.cor1:hover{
+    color: #fff;
+}
+
+.mtext{
+    font-family: 'Creepster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    height: 150px;
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.rotten{
+    font-family: 'Creepster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    color: #990000;
+}
+
+.link{
+    font-family: 'Arimo';
+    font-style: bold;
+    font-weight: 500;
+    font-size: 23px;
+    height: 30px;
+    width: 490px;
+    color: #ff6600;
+    margin: 135px 420px 0 495px;
+}
+
+.stext{
+    font-family: 'Fanwood Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    height: 580px;
+    width: 890px;
+    margin: 0 auto;
+    text-align: center;
+    background: rgba(250, 250, 250, 0.808);
+}
+
+.ctext{
+    font-family: 'Unna';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: #fff;
+    height: 630px;
+    width: 890px;
+    margin: 0 auto;
+    text-align: center;
+    background: rgba(61, 7, 20, 0.705);
+}
+
+.ptext{
+    font-family: 'Unna';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    color: #fff;
+    height: 630px;
+    width: 890px;
+    margin: 0 auto;
+    text-align: center;
+    background: rgba(11, 6, 85, 0.685);
+}
